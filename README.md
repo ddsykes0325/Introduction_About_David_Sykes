@@ -7,7 +7,7 @@ Accenture for two years which I started out working with AWS doing deployments i
 
 ## Career Area
 
-I work for Accenture in the Technology Development program which I hold the title of DevOps Engineer. It is my job to work with the software Engineers
+I work for __Accenture__ in the Technology Development program which I hold the title of DevOps Engineer. It is my job to work with the software Engineers
 and help them with their code and troubleshoot issue in Salesforce's copado. It is my goal to work towards the graduate technical communication certificate so I can work as a Documentation Engineer for a artificial intelligence company. I would like to combine my Computer science degree with the graduate  technical writing certificate to gain the skills to work as a Documentation Engineer.
 
 
