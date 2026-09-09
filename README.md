@@ -20,4 +20,8 @@ This semester I am excited to learn about XML which I have some experience with 
 
 I have used XML and OxygenXML for my internship that I completed with Ansys which is a software company that I worked for. I learned these technologies on the job so I am eager to learn more about how they really work. I would like to gain more experience with XML and OxygenXML. In the future I feel that I will use GitHub, XML and OxygenXML to do my work as a Documentation Engineer. I recently saw a Documentation Engineer role at Mapbox. Mapbox is a geographic information systems software company that I would like to work for so I decided to apply for the role. I have some experience with HTML and CSS which I feel that I am eager to learn more about in this course. 
 
+## Goals for the Semester
+
+I would like to become more confident in all the tools so that I can work as a Documentation Engineer for a software company. I would like to learn more about Markdown and MDX. I would like to learn how to write clearly and explain technical concepts working in documentation, tutorials and troubleshooting guides. I would like to be able to work with React.js so that I can target roles at Mapbox and other companies.
+
 
