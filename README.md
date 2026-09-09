@@ -25,6 +25,6 @@ I have used XML and OxygenXML for my internship that I completed with Ansys whic
 I would like to become more confident in all the tools so that I can work as a Documentation Engineer for a software company. I would like to learn more about Markdown and MDX. I would like to learn how to write clearly and explain technical concepts working in documentation, tutorials and troubleshooting guides. I would like to be able to work with React.js so that I can target roles at Mapbox and other companies.
 
 ## Dream Goals: MSCS/MSAI/MSTC
-I would like to grow in my development in all the tools covered in the WRIT 5662 and I would like to get an A in the course. I can see myself working towards the certificate in technical communication which I would like to build my confidence in my skills as a Documentation Engineer. I would like to combine my Technical writing skills with a MSCS or MSAI from Concordia University Wisconsin. 
+I would like to grow in my development in all the tools covered in the WRIT 5662 and I would like to get an A in the course. I can see myself working towards the certificate in technical communication which I would like to build my confidence in my skills as a Documentation Engineer. I would like to combine my Technical writing skills with a MSCS or MSAI from Concordia University Wisconsin. In addition I would like to grow my computer science fundamentals and learn Python as well.
 
 
