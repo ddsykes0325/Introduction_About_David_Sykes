@@ -1,1 +1,1 @@
-# David Sykes Second Semester Technical Communication Certificate
+# David Sykes Second Year Semester Graduate Technical Communication Certificate
