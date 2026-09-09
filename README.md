@@ -28,3 +28,5 @@ I would like to become more confident in all the tools so that I can work as a D
 I would like to grow in my development in all the tools covered in the WRIT 5662 and I would like to get an A in the course. I can see myself working towards the certificate in technical communication which I would like to build my confidence in my skills as a Documentation Engineer. I would like to combine my Technical writing skills with a MSCS or MSAI from Concordia University Wisconsin. In addition I would like to grow my computer science fundamentals and learn Python as well.
 
 
+
+
